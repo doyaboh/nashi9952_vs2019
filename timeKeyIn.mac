@@ -1,0 +1,5 @@
+	setcompatiblemode 0x0F;
+	insert hour;
+	insert ":";
+	insert minute;
+	insert " ";

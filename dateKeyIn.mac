@@ -1,0 +1,7 @@
+	setcompatiblemode 0x0F;
+	insert year;
+	insert "/";
+	insert month;
+	insert "/";
+	insert day;
+	insertreturn;
